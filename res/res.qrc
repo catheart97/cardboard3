@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>shader/PhongFragment.glsl</file>
+        <file>shader/PhongVertex.glsl</file>
+        <file>shader/DistortionVertex.glsl</file>
+        <file>shader/DistortionFragment.glsl</file>
+        <file>shader/PBRFragment.glsl</file>
+        <file>shader/PBRVertex.glsl</file>
+        <file>shader/SkyboxFragment.glsl</file>
+        <file>shader/SkyboxVertex.glsl</file>
+        <file>cubemap/back.jpg</file>
+        <file>cubemap/down.jpg</file>
+        <file>cubemap/front.jpg</file>
+        <file>cubemap/left.jpg</file>
+        <file>cubemap/right.jpg</file>
+        <file>cubemap/up.jpg</file>
+    </qresource>
+</RCC>
